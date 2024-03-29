@@ -15,6 +15,9 @@ LONG_DESCRIPTION = 'Fork of the original bnltk by ashwoolford'
 setup(
     name="bnltk-revamped",
     version=VERSION,
+    project_urls={
+        "Github": "https://github.com/parthokr/bnltk-revamped"
+    },
     author="Partho KR",
     author_email="<partho.kr@protonmail.com>",
     description=DESCRIPTION,
